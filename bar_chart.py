@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import csv
 
 def plot_bar():
-    df=pd.read_csv(r'C:\Chendering 2020-2025\SEM 6\DSC651\vax_state.csv')
+    df=pd.read_csv('vax_state.csv')
 
     # Assuming you have a DataFrame named 'df' containing the vaccination data
     # Convert the 'date' column to Timestamp
