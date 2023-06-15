@@ -11,7 +11,7 @@ import csv
 
 
 def plot_line():
-    data=pd.read_csv(r'C:\Chendering 2020-2025\SEM 6\DSC651\deaths_state2.csv')
+    data=pd.read_csv('deaths_state2.csv')
 
     # Convert the 'date' column to datetime type
     data['date'] = pd.to_datetime(data['date'])
