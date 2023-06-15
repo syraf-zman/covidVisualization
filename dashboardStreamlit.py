@@ -19,8 +19,8 @@ if dashboard == "Dashboard 1":
     col2.pyplot(lineC.plot_line())
 
 if dashboard == "Dashboard 2":
-    col1.text(pie2C.plot_pie())
-    col2.text(line2C.plot_line())
+    col1.pyplot(pie2C.plot_pie())
+    col2.pyplot(line2C.plot_line())
 
 if dashboard == "Dashboard 3":
     col1.pyplot(pieC.plot_pie())
