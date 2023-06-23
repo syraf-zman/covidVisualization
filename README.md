@@ -1,4 +1,4 @@
-![image](https://github.com/syraf-zman/covidVisualization/assets/134860489/9d4535e1-69ad-4a71-8864-e773c2f4ef7b)# Covid-19 Vaccination Campaign Visualization (Update June 2023)
+# Covid-19 Vaccination Campaign Visualization (Update June 2023)
 **Project Overview**
 
 This project is to visualize the effectiveness of Covid-19 campaign.
