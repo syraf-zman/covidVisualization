@@ -3,7 +3,7 @@
 
 This project is to visualize the effectiveness of Covid-19 campaign.
 Dashboard is visualized in a dashboard using Streamlit library.
-
+All codes are written in Python.
 Dashboard can be viewed here : https://syraf-zman-covidvisualization-dashboardstreamlit-l5to44.streamlit.app/
 
 
